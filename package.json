@@ -1,0 +1,23 @@
+{
+  "name": "mis-ticketing",
+  "version": "1.0.0",
+  "description": "Red dragon farm MIS-ticketing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/decrefy-developer/ticket-server.git"
+  },
+  "author": "erwin@dc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decrefy-developer/ticket-server/issues"
+  },
+  "homepage": "https://github.com/decrefy-developer/ticket-server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
